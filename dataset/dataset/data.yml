@@ -1,0 +1,6 @@
+# Đường dẫn đến dataset
+path: D:/bandau/dataset/dataset # Thư mục gốc
+train: D:\bandau\dataset\dataset\train # Thư mục ảnh train
+val: D:\bandau\dataset\dataset\valid    # Thư mục ảnh validation
+nc: 1
+names: ['ly coc']
